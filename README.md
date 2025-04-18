@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on AIML Projects<br>🧑‍🤝‍🧑 I'm looking to collaborate with people who love to explore CSE<br>🤝 I'm looking for help with projects in Web dev, App Dev with Flutter, Blockchain dev, AI, and Python<br>💬 Ask me about Python, Flutter, Dart, JS, Rust, Solidity, AI, Blockchain, Web dev<br>🌱 I'm currently learning core concepts of CSE along with DSA and Project Development in AI and ML<br>⚡ Average Linux User
+🔭 I'm currently working on AIML Projects<br>🧑‍🤝‍🧑 I'm looking to collaborate with people who love to explore CSE<br>🤝 I'm looking for help with projects in Web dev, App Dev with Flutter, Blockchain dev, AI, and Python<br>💬 Ask me about Python,AI, Blockchain, Web dev<br>🌱 I'm currently learning core concepts of CSE along with DSA and Project Development in AI and ML<br>⚡ Average Linux User
 
 
 ## 🌐 Socials:
