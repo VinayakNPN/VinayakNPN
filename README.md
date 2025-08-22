@@ -10,7 +10,7 @@
 🤝 If you’re also exploring, let’s connect and help each other grow 🚀🌟.
 
 # LeetCode Badges
-<a href="https://leetcode.com/u/vinayak_86/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="jyot" height="200" width="200" /></a>
+<a href="https://leetcode.com/u/vinayak_86/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinayak-chouhan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@https://medium.com/@chouhanvinayak86) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/https://x.com/VinayakCho64390?t=loInezgXt7-BMRbtSgkdJA&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCAzh2LRn2OHljqJ1sUz3KTw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinayakchouhan86@gmail.com) 
