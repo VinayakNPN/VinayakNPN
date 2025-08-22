@@ -1,12 +1,12 @@
 # 💫 About Me:
 🚀 Hey there! I’m a passionate learner in the world of Computer Science & Engineering, constantly sharpening my skills in core CS concepts like OS, DBMS, CN, OOPS, DSA, and System Design 💻📚.
-<br>
+<br><br>
 🤖 Alongside, I’m also an ML practitioner, always experimenting and trying to solve real-world problems with the power of AI/ML.
-<br>
+<br><br>
 🎤 You’ll often find me sharing knowledge as a public speaker (yes, sometimes forgetting the script but speaking straight from the heart ❤️) — explaining CSE concepts, and taking sessions on Web3, Blockchain, and AI 🌐✨.
-<br>
+<br><br>
 🔥 I love pushing my limits, taking on new challenges, and continuously leveling up my journey. Currently, I’m on the lookout for exciting job opportunities 👨‍💻💼.
-<br>
+<br><br>
 🤝 If you’re also exploring, let’s connect and help each other grow 🚀🌟.
 
 
