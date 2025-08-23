@@ -9,7 +9,7 @@
 <br><br>
 🤝 If you’re also exploring, let’s connect and help each other grow 🚀🌟.
 
-# LeetCode Badges
+# 🎯 LeetCode Badges
 <a href="https://leetcode.com/u/vinayak_86/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
 
 ## 🌐 Socials:
